@@ -4,14 +4,21 @@
   "artist": "panpanya",
   "author": "panpanya",
   "chapters": {
-    "Pity Catch": {
+    "210730": {
       "title": "Pity Catch",
       "volume": "1",
       "groups": {
         "": "/proxy/api/imgur/chapter/vnmYGnn/"
       }
     },
-    "Permission 3": {
+    "210815": {
+      "title": "Normal Course",
+      "volume": "1",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/z7iZOxm/"
+      }
+    },
+    "210829": {
       "title": "Permission 3",
       "volume": "1",
       "groups": {
